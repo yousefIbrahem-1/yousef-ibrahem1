@@ -53,3 +53,5 @@
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/> -->
   </p>
+
+  <img src="https://raw.githubusercontent.com/yousefIbrahem-1/yousefIbrahem-1/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
